@@ -30,6 +30,23 @@ Because it is everywhere! If you want to build Android apps, work at a major ban
 in the world. Also, because Java is so strictly organized, learning it first teaches you excellent programming habits. Once you understand the rules of 
 Java, learning any other language feels like a breeze.
 
-*/
+Requirements to start Java
+1. Install JDK (latest version)
+2. Install Eclipse, VSCode, IntelliJ (to do basic programming) for dvelopment we need to install Spring Tool Suite (it's requriments) 
+
+Day 2-Data types(1/10/2026)
+Data types are the classification of data which tells the compiler or interpreter how the programmer intends to use
+1.string - used to store text, like words or sentences. For example, "Hello, World!" is a string.
+2.int - used to store whole numbers, like 1, 42, or -7. For example, 10 is an int.
+3.double - used to store numbers with decimal points, like 3.14 or -0.001. For example, 2.5 is a double.
+4.float - used to store numbers with decimal points, but with less precision than double. For example, 3.14f is a float.
+5.boolean - used to store true or false values. For example, true is a boolean.
+6.char - used to store a single character, like 'a' or 'Z'. For example, 'A' is a char.
+7.byte, long, int
+
+Math operators : +,-,*,/,%
+special one - % : Modulo (This is a special one. It gives you the "leftovers" or remainder after division. For example, 10 % 3 gives you 1, because 3 fits into 10 three times, with 1 left over).
+some special operators : =,>=,<=,!=,&,| etc
+if : only executes certain part of your code {......}-baically first part other wise else comes into pic*/
 
  
