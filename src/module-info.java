@@ -47,6 +47,22 @@ Data types are the classification of data which tells the compiler or interprete
 Math operators : +,-,*,/,%
 special one - % : Modulo (This is a special one. It gives you the "leftovers" or remainder after division. For example, 10 % 3 gives you 1, because 3 fits into 10 three times, with 1 left over).
 some special operators : =,>=,<=,!=,&,| etc
-if : only executes certain part of your code {......}-baically first part other wise else comes into pic*/
+if : only executes certain part of your code {......}-baically first part other wise else comes into pic
+Java is very strict we can't use float as int 
+
+Day 3:(2/10/2026)
+so scanner is an built in java tool it's basically used to get user input
+so the scanner is a class in Java that allows you to read input from various sources, such as the keyboard, files, or strings. It is part of the java.util package and provides methods to read different types of data, such as integers, doubles, and strings.
+Scanner keyboardEar = new Scanner(System.in);
+import java.util.Scanner; - this is used to import the Scanner class from the java.util package, which allows you to read input from the user in your Java program.
+
+Random number = new Random();  - this is used to generate random numbers
+the basic use of random is to generate random numbers for games, simulations, or any situation where you want unpredictability. 
+import java.util.Random; - this is used to import the Random class from the java.util package, which allows you to create random numbers in your Java program.
+
+*/
+
+
+
 
  
