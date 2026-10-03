@@ -62,7 +62,6 @@ import java.util.Random; - this is used to import the Random class from the java
 
 Day 4:(3/10/2026)
 Arrays - instead of making separate variable boxes, an array is like a single bookshelf that holds multiple items of the *exact same data type* in numbered slots. The most important rule: computers start counting these slots (called indexes) at 0!
-
 for loop - unlike a while loop, a for loop is a counting machine designed to run an exact, specific number of times. 
 Example: for (int i = 0; i < n; i++) 
 Note: We can also count backwards by using the minus symbol (i--) instead of plus (i++).*/

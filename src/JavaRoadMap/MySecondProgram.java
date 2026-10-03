@@ -14,3 +14,8 @@ System.out.println("The winner is: " + winner);
 	}
 
 }
+/*Output:The value of a is: 10
+The value of b is: 30
+The value of c is: 20.5
+The sum of a and b is: 30.5
+The winner is: 30*/
