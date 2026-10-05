@@ -1,7 +1,7 @@
 package JavaRoadMap;
 
 public class MyFifthProgram {
-	public static void main(String[] args) {
+	public static void main(String... args) {
         // We just call the machine. 
         // We don't do: int x = sayHello("Dhanush") because it returns nothing!
         sayHello("Dhanush");
@@ -16,6 +16,13 @@ public class MyFifthProgram {
         
         // Notice there is no 'return' statement down here!
 }}
+/*Output:===========================
+Hello, Dhanush! Welcome to Day 5.
+===========================
+===========================
+Hello, Java Master! Welcome to Day 5.
+===========================
+
     
   /*  // ==========================================================
     // 1. THIS IS THE MAIN PROGRAM (Where the code actually runs)
