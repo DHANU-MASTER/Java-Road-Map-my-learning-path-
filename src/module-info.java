@@ -173,6 +173,15 @@ API - application programming interface - it's a set of rules and tools that all
 RAG - so when it comes to LLM when we ask any question it gives us answers on trained data but when we use RAG while designing our own ai it takes the predefined all written text in the uploaded document and give answe 
 RAG means Retrieval Augmented Generation
 
-java is good in memory deallocation if you defined we want 10 bytes memory and only use 9 bytes and don't use another 1 byte java automatically clears and gives when user requires another time this is called as garbage collection*/
+java is good in memory deallocation if you defined we want 10 bytes memory and only use 9 bytes and don't use another 1 byte java automatically clears and gives when user requires another time this is called as garbage collection
+
+Day 7:(6/10/2026)
+Let's learn about Encapsulation and the private keyword today.
+Why is it used? Because if you just leave a variable open (like age), anyone in another file can change it to a completely invalid number, like -25. To prevent this, we lock the variable by making it "private". 
+
+Because the variable is private, outside files need safe ways to interact with it:
+1. Getter: It reads your private value, copies it, and returns it back to you (like getAge();).
+2. Setter: It is used to safely set or update the value of a private variable (like setAge(25);). This is where you can add security rules, like checking if age >= 0 or age >= 18, before actually allowing the data to change.
+*/
 
  
